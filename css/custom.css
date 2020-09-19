@@ -15,8 +15,8 @@ Design and Developed by: iqonicthemes.in
 
 }
 .buttons
-                                {
-                                    background-color: #f9b707;
-                                    color:white;
-                                    border-radius: 5px;
-                                }
+{
+    background-color: #f9b707 !important;
+    color:white !important;
+    border-radius: 5px !important;
+}
