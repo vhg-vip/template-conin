@@ -205,6 +205,11 @@ Design and Developed by: iqonicthemes.in
 		left: -1%;
 	}
 }
+@media(max-width: 500px){
+	.start-btn{
+		right: 75px;
+	}
+}
 @media(max-width:479px) {
 	.iq-blog-meta ul li { font-size: 14px; }
 	.iq-blog-meta ul { padding-left: 0px; }
